@@ -1,5 +1,16 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# Custom files
+navigation/
+screens/
+App-props.js
+Cat-State.js
+Estados.js
+Estados2.js
+Greeting.js
+hooks.js
+
+
 # dependencies
 node_modules/
 
